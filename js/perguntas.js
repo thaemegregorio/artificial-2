@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que ganhou seu telefone depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual a primeira coisa que vocễ faz?Assim que ganhou seu telefone depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual a primeira coisa que vocễ faz?",
+        enunciado: "Assim que ganhou seu telefone depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual a primeira coisa que vocễ faz? ",
         alternativas: [
             {
                 texto: "Exploro e conheço mais sobre",
@@ -82,4 +82,5 @@ export const perguntas = [
             },
         ]
     }
+
 ];
